@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Links</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    /* Muda as configurações CSS dos links */
+    a {
+      color: red;
+      text-decoration: none;
+    }
+    /* Mudar as configurações CSS do link já visitado */
+    a:visited {
+      color: darkred;
+    }
+    /* Mudar as configurações CSS ao passar com o mouse em cima */
+    a:hover {
+      text-decoration: underline;
+      font-size: 1.2em;
+      color: rgb(43, 255, 0);
+    }
+    /* Muda as configurações CSS do link clicado */
+    a:active {
+      color: blue;
+    }
+    /* Usando os pseudoelementos duas vezes ':' */
+    a::before {
+      content: '❇ ';
+      text-decoration: none;
+      font-weight: lighter;
+      color: darkgrey;
+    }
+    a::after {
+      content: ' ❇';
+      text-decoration: none;
+      font-weight: lighter;
+      color: darkgrey;
+
+    }
+    .especial::before {
+      content: '♫ ';
+      text-decoration: none;
+      font-weight: lighter;
+      color: darkgrey;
+    }
+    .especial::after {
+      content: ' ♬';
+      text-decoration: none;
+      font-weight: lighter;
+      color: darkgrey;
+    }
+  </style>
+</head>
+<body>
+  <h1>Personalizando Links</h1>
+  <ul>
+    <li><a href="https://gustavoguanabara.github.io" target="_blank">Repositório GitHub</a></li>
+    <li><a href="https://youtube.com/cursoemvideo/" target="_blank">Canal do Youtube</a></li>
+    <li><a href="https://www.cursoemvideo.com" target="_blank" class="especial">Site Curso em Video</a></li>
+  </ul>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fontes em CSS</title>
+  <style>
+    body {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      /* Medidas das Fontes: 
+      Medidas Absolutas: 
+      cm, mm, in, px, pt, pc 
+      (*) Vamos usar mais o "px"
+      
+      Medidas Relativas: 
+      em, ex, rem, vw, vh, % 
+      (*) Vamos usar mais o "em" -> relativo ao tamanho natural da fonte (16px)
+
+      NOrmalmente, os navegadores tem 16px como default.
+      */
+      font-size: 1.2em; 
+
+      /* 
+      Peso das Fontes (weight): lighter, normal, bold, bolder ou usando a numeração de 100 a 900. -> Usado para o negrito
+      */
+      font-weight: lighter;
+
+      /* Fonte em itálico e sublinhado 
+        font-style: italic;
+        text-decoration: underline;
+      */
+    }
+
+    p {
+      font-style: italic;
+      font-weight: normal;
+      font-size: 1.2em;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Forma de fazer o shorthand dos parâmetros da fonte. A ordem é 
+    font-style font-weight font-size font-family */
+    .text-shorthand {
+      font: italic bold 1.2em Arial;
+    }
+  </style>
+</head>
+<body>
+  <h1>Trabalhando com fontes</h1>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque enim nostrum odit architecto officiis, blanditiis atque quia earum consequuntur labore tenetur? Autem alias ipsum error exercitationem minus quo officiis quaerat!</p>
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit quos suscipit quod, necessitatibus dolorem obcaecati quo tenetur, nemo vero laborum dicta odio nulla amet repellat in accusantium maiores ex qui!</p>
+  <h2>Subtítulo do Exercício</h2>
+  <p class="text-shorthand">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum hic est maxime qui deserunt ducimus recusandae, ullam repellendus molestias omnis consequatur, accusantium vitae doloremque explicabo quis nostrum quas similique ex!</p>
+</body>
+</html>

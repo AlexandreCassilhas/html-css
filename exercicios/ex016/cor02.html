@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gradiente em CSS</title>
+  <style>
+    * { /* O * é utilizado para regras gerais para a página */
+      height: 100%;
+    }
+    body {
+      /* Fazendo um gradiente da esquerda para a direita, do branco para o azul (apenas duas cores) 
+      background-image: linear-gradient(to right, white, blue); 
+      */
+      /* Fazendo o gradiente utilizando a orientação em graus (90deg, -45deg, 45deg, ...) e multicolorido 
+      background-image: linear-gradient(45deg, orange, lightblue, #E33F5F, #FDD579);
+      */
+      /* Fazendo o gradiente em forma circular 
+      background-image: radial-gradient(circle, #7D0EFF, #FF00E1, #FF0047, #FF6600, #FFA709, #FDD579);
+      */
+      /* Ainda é possível especificar qual o percentual que você quer de cada cor no background */
+      background-image: linear-gradient(90deg, #7D0EFF 20%, #FF00E1 25%, #FF0047, #FF6600, #FFA709, #FDD579);
+
+      background-attachment: fixed; /* Para manter o background fixo */
+    }
+  </style>
+</head>
+<body>
+  <h1>Testando Gradiente</h1>
+</body>
+</html>

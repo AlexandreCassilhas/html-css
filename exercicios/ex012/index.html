@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vídeos com HTML5</title>
+</head>
+<body>
+  <h1>Inserindo vídeos localmente</h1>
+  <p>Este vídeo está hospedado no meu próprio servidor</p>
+
+  <!--O navegador vai tentar abrir um formato de cada vez e rodará o primeiro vídeo que ele conseguir abrir. Caso não consiga abrir nenhum dos vídeos, ele retornará a mensagem de incompatibilidade-->
+  <!-- Videos hospedados em seu próprio servidor podem consumir muita banda, dependendo do tamanho dos vídeos hospedados, portanto, esse tipo de procedimento não é o mais adequado.-->
+  <video width="560" poster="imagens/capa-reduzida2.jpg" controls loop>
+    <source src="media/meu-video.mp4" type="video/mp4">
+    <source src="media/meu-video.ogv" type="video/ogv">
+    <source src="media/meu-Video.webm" type="video/webm">
+    <source src="media/Meu-Video3.mp4" type="video/mp4">
+    <p>Seu navegador não é compativel com a reprodução de vídeos</p>
+  </video>
+
+  <!--Para a inserção de vídeos externos é necessário entrar na plataforma (Youtube ou Vimeo), escolher o vídeo que você deseja publicar em sua página, clicar em "compartilhar" e copiar o código de inserção disponibilizado no site, que se inicia com a tag <iframe> -->
+
+  <h1>Inserindo vídeos do Youtube</h1>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FdE5G95B7Mg?si=QLx43CB0Y2OFoMlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <!-- Para fins de organização do código, vale à pena fazer esse tipo de separação -->
+  <h1>Inserindo vídeos do Vimeo</h1>
+
+  <iframe 
+    src="https://player.vimeo.com/video/441353647?h=ade51e9392&color=ff9933&title=0&byline=0&portrait=0"
+    width="560" height="315" frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+  </iframe>
+  
+</body>
+</html>

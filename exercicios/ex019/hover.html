@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo de Hover</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    div:hover {
+      color: red;
+    }
+    /* como representar o filho de uma 'div' */
+    div > p {
+      display: none;
+      /* Esconde o elemento 'p' que está dentro da 'div' */
+    }
+
+    /* Como executar uma ação 'hover' para o filho de uma 'div' */
+    div:hover > p {
+      display: block;
+      /* Mostra novamente o elemento 'p' ao passar o mouse */
+      color: white;
+      background-color: red;
+      width: 200px;
+    }
+    .fim {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 19px;
+      font-weight: bold;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exemplo de Hover</h1>
+  <p>Passe o mouse sobre o texto</p>
+  <div>Passe o mouse aqui
+    <p>Texto escondido</p>
+  </div>
+  <p class="fim">Fim do Exemplo</p>
+</body>
+</html>

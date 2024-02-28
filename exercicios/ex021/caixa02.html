@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grouping Tags</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: lightblue;
+      color: rgb(19, 19, 110);
+    }
+    header {
+      background-color: rgba(25, 201, 201, 0.137);
+      padding: 5px;
+      margin: 5px;
+    }
+    #titulo {
+      color: blue;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-weight: lighter;
+    }
+    #titulo::before {
+      content: '❇';
+      padding-right: 5px;
+    }
+    nav {
+      background-color: rgba(80, 73, 139, 0.397);
+      padding: 5px 4px;
+      margin: 5px;
+      box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    }
+    nav > a {
+      text-decoration: none;
+      color: rgb(4, 70, 124);
+      font-weight: bold;
+      padding-left: 3px;
+      margin-right: 30px;
+
+    }
+    nav > a:hover {
+      color: rgb(121, 120, 90);
+      text-decoration: none;
+      font-style: italic;
+    }
+    main {
+      background-color: rgba(80, 73, 139, 0.397);
+      padding: 5px;
+      margin: 10px;
+
+      border-radius: 10px;
+      box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    }
+    article {
+      padding: 5px;
+      text-align: justify;
+    }
+    p {
+      color: rgb(4, 70, 124);
+    }
+    footer {
+      font-size: 0.8em;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: purple;
+      text-align: center;
+      padding: 0px;
+      margin: 0px;
+    }
+    footer > p {
+      margin: 0px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="titulo">Meu site</h1>
+    <nav>
+      <a href="#">Início</a>
+      <a href="#">Última Hora</a>
+      <a href="#">Regionais</a>
+      <a href="#">Nacionais</a>
+      <a href="#">Internacionais</a>
+    </nav>
+  </header>
+  <main>
+    <section id="assuntos">
+      <article>
+        <h2>Notícias sobre o Brasil</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus voluptatibus sunt adipisci omnis corporis amet culpa repellendus ea voluptas, quo doloremque, similique, deleniti sit itaque ipsam magni dignissimos modi aliquid?</p>
+        <aside>
+          <p>Escrito por Carlos Eduardo P Cassilhas</p>
+          </p>
+        </aside>
+      </article>
+    </section>
+    <section id="tecnologia">
+      <article>
+        <h2>Notícias Internacionais</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis repellendus eaque vel temporibus est inventore nam, totam animi ab tenetur enim reiciendis voluptatibus dolor hic architecto delectus ipsam, voluptatem odit?</p>
+        <aside>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel quas modi placeat mollitia ea ipsum nobis explicabo deserunt cum facere officia laudantium, quisquam sunt delectus? Quaerat tempora deleniti dolores voluptatibus.</p>
+        </aside>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <p>Desenvolvido por Alexandre Cassilhas</p>
+  </footer>
+</body>
+</html>

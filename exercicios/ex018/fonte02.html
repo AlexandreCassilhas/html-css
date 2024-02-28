@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fontes Externas</title>
+  <style>
+
+    /* Fazendo o 'import' de uma fonte mantida no Google Fonts, sem trazê-la para a pasta fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Salsa&display=swap');
+
+    /* Importando uma fonte baixada para a pasta 'fonts' do projeto */
+    @font-face {
+      font-family: salsa;
+      src: url(../fonts/Salsa-Regular.ttf) format('truetype');
+
+      /* Tipos de Format:display: 
+          - opentype (otf);
+          - truetype (ttf);
+          - embedeed-opentype;
+          - truetype-aat (Apple Advanced Typography);
+          - svg.
+      */
+    }
+
+    body {
+      font-family: salsa;
+    }
+
+    h1 {
+      font-family: "Bebas Neue";
+    }
+
+    p {
+      text-align: justify;
+      font-weight: lighter;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fontes Externas</h1>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, molestias odio nesciunt dicta corrupti quae, qui rerum exercitationem tenetur vel id quis modi tempore similique quasi dignissimos quibusdam, numquam ipsam!</p>
+  <h2>Subtítulo</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, animi nulla! Odio qui, tenetur labore, in iusto officiis quia delectus aliquid deserunt reiciendis nostrum amet, ullam saepe quibusdam omnis? Assumenda!</p>
+</body>
+</html>

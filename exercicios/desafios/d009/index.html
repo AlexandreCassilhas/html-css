@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desafio 009</title>
+  <style>
+    .main-container {
+      padding: 10px;
+      color: blue;
+      background-color: yellowgreen;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 15px;
+      text-align: center;
+      align-content: center;
+    }
+  </style>
+</head>
+<body>
+  <!-- Main screen suitable according of its width-->
+  <div class="main-container">
+    <h1>Vídeos legais para assistir</h1>
+    <a href="video1.html" rel="next" hreflang="pt-br">
+      <picture>
+        <source media="(max-width: 750px )" srcset="media/video1-p.jpg" sizes="160">
+        <source media="(max-width: 1050px)" srcset="media/video1-m.jpg" sizes="350">
+        <img src="media/video1-g.jpg" alt="video1">
+      </picture>
+    </a>
+    <a href="video2.html" rel="next" hreflang="pt-br">
+      <picture>
+        <source media="(max-width: 750px)" srcset="media/video2-p.jpg" sizes="160">
+        <source media="(max-width: 1050px)" srcset="media/video2-m.jpg" sizes="350">
+        <img src="media/video2-g.jpg" alt="video2">
+      </picture>
+    </a>
+   <br>
+   <a href="video3.html" rel="next" hreflang="pt-br">
+     <picture>
+      <source media="(max-width: 750px)" srcset="media/video3-p.jpg" sizes="160">
+      <source media="(max-width: 1050px)" srcset="media/video3-m.jpg" sizes="350">
+      <img src="media/video3-g.jpg" alt="video3">
+     </picture>
+   </a>
+   <a href="video4.html" rel="next" hreflang="pt-br">
+     <picture>
+      <source media="(max-width: 750px)" srcset="media/video4-p.jpg" sizes="160">
+      <source media="(max-width: 1050px)" srcset="media/video4-m.jpg" sizes="350">
+      <img src="media/video4-g.jpg" alt="video4">
+     </picture>
+   </a>
+  </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+
+@charset "UTF-8";
+/* Este @ é utilizado para inserir o charset UTF-8 neste arquivo também e garantir a compatibilidade para essa codificação */
+body {
+  background-color: lightyellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+h1 {
+  color: darkblue;
+  background-color: goldenrod;
+}
+h2 {
+  color: darkred;
+  text-decoration: underline;
+}
+p {
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.hyperl {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-align: right;
+}
