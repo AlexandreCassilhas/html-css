@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alinhamento Vertical</title>
+  <style>
+    /* Alinhando no centro uma caixa dentro da outra*/
+    #container {
+      position: relative;
+      height: 96vh;
+      padding: 10px;
+      background-color: purple;
+    }
+    #conteudo {
+      height: 200px;
+      width: 400px;
+      background-color: yellow;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+    p {
+      padding: 10px;
+    }
+
+  </style>
+</head>
+<body>
+  <section id="container">
+    <article id="conteudo">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat recusandae deserunt quo obcaecati dolore quidem illum itaque quod fuga explicabo. Itaque similique deserunt omnis nisi porro, natus asperiores ducimus voluptatibus?</p>
+    </article>
+  </section>
+</body>
+</html>
