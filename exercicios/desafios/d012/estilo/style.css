@@ -7,12 +7,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap')
+
 
 :root {
   --fonte1: Verdana, Geneva, Tahoma, sans-serif;
   --fonte2: "Passion One", sans-serif;
-  --fonte3: "Cedarville Cursive", cursive;
-}
+  --fonte3: "Nova Square", sans-serif;
 
 * {
   margin: 0px;
