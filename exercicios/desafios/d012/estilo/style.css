@@ -3,10 +3,6 @@
 /* Importação de Fontes */
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
 
 
@@ -14,6 +10,7 @@
   --fonte1: Verdana, Geneva, Tahoma, sans-serif;
   --fonte2: "Passion One", sans-serif;
   --fonte3: "Nova Square", sans-serif;
+}
 
 * {
   margin: 0px;
@@ -53,6 +50,7 @@ header a, footer a {
 
 header a:hover, footer a:hover {
   text-decoration: underline;
+  color: rgba(218, 165, 32, 0.575);
 }
 
 footer {
@@ -66,10 +64,11 @@ footer {
 section {
   padding-top: 10vh;
   padding-bottom: 10vh;
+  /* espaçamento vertical */
   line-height: 2em;
   padding-left: 30px;
   font-family: var(--fonte3);
-  font-size: 4.0vw;
+  font-size: 3.5vw;
   font-weight: bold;
 }
 
@@ -90,8 +89,11 @@ section#img02 {
 section.imagem > p {
   display: inline-block;
   padding: 5px;
-  width: 400px;
+  /* redimensiona a caixa proporcional ao tamanho da tela */
+  width: 55vw;
+  /* cria um fundo cinza transparente para a caixa*/
   background-color: rgba(0, 0, 0, 0.514);
+  /* cria uma pequena sombra nas letras */
   text-shadow: 1px 1px 0px black;
 }
 
