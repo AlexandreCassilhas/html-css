@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabelas</title>
+  <style>
+    table {
+      width: 400px;
+      border: 1px solid black;
+      text-align: center;
+      /* Retirando o espaço entre as bordas */ 
+      border-collapse: collapse;
+    }
+    table td {
+      padding: 5px;
+      border: 1px solid black;
+    }
+    table tr.header {
+      background-color: lightgray;
+      font-weight: bold;
+      color: blue;
+    }
+    table tr.yellow {
+      background-color: yellow;
+    }
+    table tr.green {
+      background-color: greenyellow;
+    }
+    table td.exception {
+      background-color: blueviolet;
+    }
+  </style>
+</head>
+<body>
+  <h1>Minha Primeira Tabela</h1>
+    <!-- Estrutura Básica de tabelas:
+    - Table
+    - Table Row:
+      - Table header;
+      - Table data
+    -->
+  <table>
+    <tr class="header">
+      <td>header 1</td>
+      <td>header 2</td>
+      <td>header 3</td>
+    </tr>
+    <tr class="yellow">
+      <td>a1</td>
+      <td>b1</td>
+      <td>c1</td>
+    </tr>
+    <tr class="green">
+      <td>a2</td>
+      <td>b2</td>
+      <td>c2</td>
+    </tr>
+    <tr class="yellow">
+      <td>a3</td>
+      <td class="exception">b3</td>
+      <td>c3</td>
+    </tr>
+    <tr class="green">
+      <td>a4</td>
+      <td>b4</td>
+      <td>c4</td>
+    </tr>
+
+  </table>
+</body>
+</html>
