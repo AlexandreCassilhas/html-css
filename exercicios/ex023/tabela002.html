@@ -8,14 +8,29 @@
     body {
       font-family: Arial, Helvetica, sans-serif;
     }
+    h1 {
+      text-align: center;
+      font-variant: small-caps;
+      background-color: antiquewhite;
+      border-radius: 15px;
+    }
     table {
       width: 500px;
       border-collapse: collapse;
+      /* Como fixar o cabeçalho no topo da tela*/
+      position: relative;
     }
     td, th {
       border: 1px solid black;
       padding: 10px;
     }
+    /* Como fixar o cabeçalho no topo da tela*/
+    thead > tr > th {
+      position: sticky;
+      top: -1px;
+      background-color: lightgray;
+    }
+
     thead, tfoot {
       background-color: grey;
       color: white;
@@ -25,6 +40,13 @@
     }
     th.populacao {
       width: 50px;
+    }
+    /* Fazendo o efeito zebrado na tabela (even-pares odd-ímpares)*/
+    tbody > tr:nth-child(even) {
+      background-color: lightcyan;
+    }
+    tbody > tr:nth-child(odd) {
+      background-color: lightskyblue;
     }
   </style>
 </head>
@@ -97,6 +119,38 @@
         <td>Goiás</td>
         <td class="numero">7.018.354</td>
       </tr>
+      <tr>
+        <td>Pará</td>
+        <td class="numero">8.602.865</td>
+      </tr>
+      <tr>
+        <td>Santa Catarina</td>
+        <td class="numero">7.164.788</td>
+      </tr>
+      <tr>
+        <td>Maranhão</td>
+        <td class="numero">7.075.181</td>
+      </tr>
+      <tr>
+        <td>Goiás</td>
+        <td class="numero">7.018.354</td>
+      </tr>
+      <tr>
+        <td>Pará</td>
+        <td class="numero">8.602.865</td>
+      </tr>
+      <tr>
+        <td>Santa Catarina</td>
+        <td class="numero">7.164.788</td>
+      </tr>
+      <tr>
+        <td>Maranhão</td>
+        <td class="numero">7.075.181</td>
+      </tr>
+      <tr>
+        <td>Goiás</td>
+        <td class="numero">7.018.354</td>
+      </tr>
     </tbody>
     <tfoot>
       <tr>
@@ -105,5 +159,16 @@
       </tr>
     </tfoot>
   </table>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit explicabo laboriosam cum repellendus provident laborum quis! Cum minima cupiditate quos repellendus amet facilis. Aperiam, quis laudantium! Ea ipsa id recusandae.</p>
+  
 </body>
 </html>
