@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabelas</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 300px;
+
+    }
+    td {
+      border: 1px solid black;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mesclagem de Células</h1>
+  <table>
+    <tr>
+      <!-- colspan -> expande para colunas a direita 
+          rowspan -> expande para colunas abaixo -->
+      <td>a</td>
+      <!-- Fazendo o "b" ocupar duas colunas-->
+      <!-- "b" ocupa as colunas de "b" e "c"-->
+      <td colspan="2">b</td>
+    </tr>
+    <tr>
+      <!-- Fazendo o "d" ocupar três linhas-->
+      <!-- "d" ocupa as colunas de "g" e "j"-->
+      <td rowspan="3">d</td>
+      <td>e</td>
+      <td>f</td>
+    </tr>
+    <tr>
+
+      <td>h</td>
+      <td>i</td>
+    </tr>
+    <tr>
+
+      <td>l</td>
+      <td>m</td>
+    </tr>
+  </table>
+</body>
+</html>
