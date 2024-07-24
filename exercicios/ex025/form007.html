@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulários</title>
+  <style>
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exemplo de Formulários</h1>
+  <form action="cadastro.js" method="post">
+  <p>
+    <label for="iest">Estado</label>
+    <!-- select -> cria a combobox
+      - option -> indica cada opção da combobox
+      - optgroup -> cria grupos distintos dentro da combobox
+      - selected -> indica a opção default 
+    -->
+    <select name="estado" id="iest">
+      <option value="" selected>--- Escolha o Estado ---</option>
+      <optgroup label="Região Sul">
+        <option value="PR">Paraná</option>
+        <option value="SC">Santa Catarina</option>
+        <option value="RS">Rio Grande do Sul</option>
+      </optgroup>
+
+      <optgroup label="Região Sudeste">
+        <option value="ES">Espirito Santo</option>
+        <option value="MG">Minas Gerais</option>
+        <option value="RJ">Rio de Janeiro</option>
+        <option value="SP">São Paulo</option>
+      </optgroup>
+    </select>
+  </p>
+  <p>
+    <label for="iprof">Profissão</label>
+    <!-- datalist -> cria uma combobox onde o usuário pode digitar um novo valor 
+      - list -> indica o "id" da datalist criada para associá-la ao input
+      -->
+    <input type="text" name="prof" id="iprof" list="listprof">
+    <datalist id="listprof">
+      <option>Administrador</option>
+      <option>Contador</option>
+      <option>Desenvolvedor</option>
+      <option>Analista</option>
+      <option>Professor</option>
+    </datalist>
+  </p>
+  <p>
+    <label for="imsg">Mensagem</label><br>
+    <!-- textarea -> conteúdo "memo" -->
+    <textarea name="msg" id="imsg" cols="50" rows="10" placeholder="Digite aqui a sua mensagem"></textarea>
+  </p>
+
+  <p>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Limpar">
+  </p>
+</form>
+</body>
+</html>
