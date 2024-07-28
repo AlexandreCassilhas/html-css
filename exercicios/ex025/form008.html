@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulários</title>
+  <style>
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exemplo de Formulário</h1>
+  <form action="cadastro.js" method="get">
+    <p>
+      <label for="inum1">Número 1:</label>
+      <input type="number" name="n1" id="inum1" min="0" max="50" required
+      oninput="isoma.innerHTML = Number(inum1.value)+Number(inum2.value)">
+      <!-- oninput -> executa um código JS ao entrar com um valor no campo. -->
+    </p>
+    <p>
+      <label for="inum2">Número 2:</label>
+      <input type="number" name="n2" id="inum2" min="0" max="50" required 
+      oninput="isoma.innerHTML = Number(inum1.value)+Number(inum2.value)">
+      <!-- oninput -> executa um código JS ao entrar com um valor no campo. -->
+    </p>
+    <p>
+      <input type="submit" value="Enviar">
+      <input type="reset" value="Limpar">
+    </p>
+    <p>
+      <!-- Solução para fazer uma operação de soma para apenas mostrar na tela em tempo real. Essa operação não será enviada no post/get -->
+      <label for="isoma">Soma: </label>
+      <output name="soma" id="isoma">0</output>
+    </p>
+
+  </form>
+  
+</body>
+</html>

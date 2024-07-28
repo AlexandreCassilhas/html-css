@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Testes com Formulários</title>
+  <style>
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <form action="cadastro.js" method="get">
+    <p>
+      <label for="icolor">Cor:</label>
+      <input type="color" class="js-color" id="icolor" oninput="changeColor()">
+      <br><br>
+      <output id="outColor" class="js-outColor">Troca de Cores</output>
+    </p>
+  </form>
+
+  <script>
+    seletor = document.querySelector(".js-color");
+
+    changeColor();
+
+    function changeColor() {
+      //document.body.style.backgroundColor = seletor.value;
+
+      /*Há duas formas de referenciar um controle HTML por JS:
+        - getElementById("id-do-controle"); ou
+        - querySelector(".classe-do-controle").
+      
+      document.getElementById("outColor").style.color = seletor.value;
+      */
+      document.querySelector(".js-outColor").style.color = seletor.value;
+
+    }
+  </script>
+</body>
+</html>
