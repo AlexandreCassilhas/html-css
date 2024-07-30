@@ -32,6 +32,12 @@ menu  li {
   padding: 10px;
 }
 
+menu li:hover {
+  background-color: darkslategray;
+  color: chocolate;
+  border-radius: 5px;
+}
+
 article {
   width: 500px;
   display: block;
