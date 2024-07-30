@@ -7,3 +7,9 @@ body {
   background-size: contain;
   background-repeat:no-repeat;
 }
+
+h1 {
+  color: darkgoldenrod;
+  text-shadow: 2px 2px 0px #1526a7;
+  padding: 10px;
+}
