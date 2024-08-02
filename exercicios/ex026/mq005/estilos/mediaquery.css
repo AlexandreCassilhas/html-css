@@ -11,16 +11,20 @@
 @media screen and (min-width: 768px) {
   span#burger {
     display: none;
+    /* Esconde o "burger" */ 
   }
 
   nav {
     display: block;
+    /* Exibe as opções de menu */
   }
   nav li {
     display: inline-block;
+    /* Coloca as opções de menu em linha horizontal */
   }
 
   main {
     width: 768px;
+    /* Limita a largura da tela ao máx de 768px */
   }
 }
