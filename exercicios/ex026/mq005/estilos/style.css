@@ -20,10 +20,10 @@ header > h1 {
 }
 
 nav {
-  display: block;
+  display: none;
 }
 
-#burger {
+span#burger {
   background-color: rgb(32, 32, 32);
   display: block;
   color: white;
@@ -31,9 +31,10 @@ nav {
   padding: 10px;
 }
 
-#burger:hover {
+span#burger:hover {
   background-color: white;
   color: black;
+  cursor: pointer;
 }
 
 nav > ul {

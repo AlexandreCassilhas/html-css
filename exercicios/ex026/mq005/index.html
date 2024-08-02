@@ -10,9 +10,9 @@
 <body>
   <header>
     <h1>Jornal da Praça</h1>
-    <span id="burger" class="material-symbols-outlined">menu</span>
+    <span id="burger" class="material-symbols-outlined" onclick="clickMenu()">menu</span>
 
-    <nav>
+    <nav id="inav">
       <ul>
         <li><a href="#">Política</a></li>
         <li><a href="#">Tecnologia</a></li>
@@ -39,5 +39,16 @@
       </p>
     </article>
   </main>
+
+  <script>
+    <!-- Função para mostrar/esconder os itens de menu ao clicar no burger -->
+    function clickMenu() {
+      if (inav.style.display == 'block') {
+        inav.style.display = 'none'
+      } else {
+        inav.style.display = 'block';
+      }
+    }
+  </script>
 </body>
 </html>
