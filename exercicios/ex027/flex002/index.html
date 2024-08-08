@@ -7,21 +7,23 @@
   <style>
     div.container {
       background-color: lightsalmon;
+
       display: flex;
       /* Torna o container-pai flexível. O pai é quem recebe o "display:flex" */
       
-      /* 
-      flex-direction: row;
       flex-direction: row-reverse;
-      flex-direction: column;
-      flex-direction: column-reverse;
+      /* 
+      * flex-direction: muda a direção das caixas-filho. (row-> é o default)
+      flex-direction: row; -> Left to Right
+      flex-direction: row-reverse; -> Right to Left
+      flex-direction: column; -> up to Down
+      flex-direction: column-reverse; -> Down to Up
       */
     }
     div.item {
       text-align: center;
       background-color: lightskyblue;
       border: 1px solid black;
-
     }
   </style>
 </head>
