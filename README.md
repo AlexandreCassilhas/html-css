@@ -59,3 +59,17 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex021/caixa03.html">EX021 - Box Level – Tipos de CSS para caixas (3)</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo001.html">EX022 - Backgrounds / images /divs (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo002.html">EX022 - Backgrounds / images /divs (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo003.html">EX022 - Backgrounds / images /divs (3)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo004.html">EX022 - Backgrounds / images /divs (4)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo005.html">EX022 - Backgrounds / images /divs (5)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo006.html">EX022 - Backgrounds / images /divs (6)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo007.html">EX022 - Backgrounds / images /divs (7)</a>
+<br>
