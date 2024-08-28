@@ -53,3 +53,9 @@ HTML5 and CSS Course
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex020/links.html">EX020 - Utilizando links com suas pseudoclasses</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex021/caixa01.html">EX021 - Box Level – Tipos de CSS para caixas (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex021/caixa02.html">EX021 - Box Level – Tipos de CSS para caixas (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex021/caixa03.html">EX021 - Box Level – Tipos de CSS para caixas (3)</a>
+<hr>
