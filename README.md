@@ -36,3 +36,5 @@ e.	Inserindo emojis no HTML utilizando &#x
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex011">EX011 - Midias em HTML</a>
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex012">EX012 - Vídeos em HTML</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex013">EX013 - Aplicação de Estilos Inline (recomendado só em casos especiais)</a>
