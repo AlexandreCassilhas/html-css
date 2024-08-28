@@ -51,3 +51,9 @@ e.	Inserindo emojis no HTML utilizando &#x
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex017/fonte01.html">EX017 - Fontes em CSS</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex018/fonte01.html">EX018 - Alguns repositórios de fontes (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex018/fonte02.html">EX018 - Alguns repositórios de fontes (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex018/fonte03.html">EX018 - Alguns repositórios de fontes (3)</a>
+<hr>
