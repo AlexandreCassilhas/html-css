@@ -22,3 +22,5 @@ e.	Inserindo emojis no HTML utilizando &#x
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex004">EX004 - Inserindo o ícone da página com &lt;link rel=”shortcut icon”...&gt;</a>
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex006">EX006 - Entendendo a hierarquia de títulos &lt;h1&gt; &lt;h2&gt; &lt;h3&gt; &lt;h4&gt;, ...</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex007">EX007 - Falando de algumas tags já obsoletas</a>
