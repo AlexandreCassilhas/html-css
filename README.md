@@ -18,4 +18,6 @@ e.	Inserindo emojis no HTML utilizando &#x
 </a>
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex003">EX003 - Inserindo imagens no HTML com a tag &lt;img&gt;</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex004">EX004 - Inserindo o ícone da página com &lt;link rel=”shortcut icon”...&gt;</a>
 <br>
