@@ -42,3 +42,10 @@ e.	Inserindo emojis no HTML utilizando &#x
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex014">EX014 - Aplicação de Estilos Locais – Dentro do &lt;head&gt;</a>
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex015">EX015 - Aplicação de Estilos Externos – Melhor prática para estilos</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex016/cor01.html">EX016 - Formatação de Cores no CSS (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex016/cor02.html">EX016 - Formatação de Cores no CSS (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex016/cor03.html">EX016 - Formatação de Cores no CSS (3)</a>
+<hr>
