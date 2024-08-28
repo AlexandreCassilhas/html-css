@@ -45,3 +45,9 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex018/fonte03.html">EX018 - Alguns repositórios de fontes (3)</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/hover.html">EX019 - Utilizando a pseudoclasse :hover (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/pseudoclasses.html">EX019 - Utilizando a pseudoclasse :hover (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/seletor01.html">EX019 - Utilizando a pseudoclasse :hover (3)</a>
+<hr>
