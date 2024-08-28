@@ -10,7 +10,9 @@ a.	Parágrafos
 <br>
 b.	&lt;hr&gt; - Cria uma nova linha em branco
 <br>
-c.	Inserindo alguns símbolos no HTML utilizando &
+c.	&lt;br&gt; - Pula para a próxima linha
 <br>
-d.	Inserindo emojis no HTML utilizando &#x
+d.	Inserindo alguns símbolos no HTML utilizando &
+<br>
+e.	Inserindo emojis no HTML utilizando &#x
 </a>
