@@ -6,7 +6,7 @@ HTML5 and CSS Course
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex002">EX002 - Parágrafos</a>
 <a>
 a.	Parágrafos
-b.	&lt;hr&gt - Cria uma nova linha em branco
+b.	&lt;hr&gt; - Cria uma nova linha em branco
 c.	Inserindo alguns símbolos no HTML utilizando &
 d.	Inserindo emojis no HTML utilizando &#x
 </a>
