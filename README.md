@@ -49,5 +49,7 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/pseudoclasses.html">EX019 - Utilizando a pseudoclasse :hover (2)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/seletor01.html">EX019 - Utilizando a pseudoclasse :hover (3)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex019/seletor01.html">EX019 - Utilizando Seletores Personalizados</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex020/links.html">EX020 - Utilizando links com suas pseudoclasses</a>
 <hr>
