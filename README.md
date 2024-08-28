@@ -7,7 +7,10 @@ HTML5 and CSS Course
 <br>
 <a>
 a.	Parágrafos
+<br>
 b.	&lt;hr&gt; - Cria uma nova linha em branco
+<br>
 c.	Inserindo alguns símbolos no HTML utilizando &
+<br>
 d.	Inserindo emojis no HTML utilizando &#x
 </a>
