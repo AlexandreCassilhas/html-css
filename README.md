@@ -99,25 +99,25 @@ HTML5 and CSS Course
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - label for / autocomplete</a>
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form002.html">EX025 - Formulários (2) - </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form003.html">EX025 - Formulários (3) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form003.html">EX025 - Formulários (3) - required / maxlength / placeholder / min / max / step / types: month/date/time</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form004.html">EX025 - Formulários (4) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form004.html">EX025 - Formulários (4) - fieldset / legend / pattern / type:email/tel</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form005.html">EX025 - Formulários (5) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form005.html">EX025 - Formulários (5) - fieldset / legend / type: radio/checkbox </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form006.html">EX025 - Formulários (6) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form006.html">EX025 - Formulários (6) - type: color/range/file / value</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form007.html">EX025 - Formulários (7) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form007.html">EX025 - Formulários (7) - select / option / optgroup</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form008.html">EX025 - Formulários (8) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form008.html">EX025 - Formulários (8) - oninput / cmdos JS (innerHTML) </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form009.html">EX025 - Formulários (9) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form009.html">EX025 - Formulários (9) - oninput / output / type:range / innerHTML </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form0010.html">EX025 - Formulários (10) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form010.html">EX025 - Formulários (10) - oninput / output / JS</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form0011.html">EX025 - Formulários (11) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form011.html">EX025 - Formulários (11) - oninput / output / JS</a>
 <hr>
