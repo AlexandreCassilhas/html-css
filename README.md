@@ -97,3 +97,27 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe006.html">EX024 - Iframes (6) - Dicas de Conteúdos dentro de Iframes</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form002.html">EX025 - Formulários (2) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form003.html">EX025 - Formulários (3) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form004.html">EX025 - Formulários (4) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form005.html">EX025 - Formulários (5) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form006.html">EX025 - Formulários (6) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form007.html">EX025 - Formulários (7) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form008.html">EX025 - Formulários (8) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form009.html">EX025 - Formulários (9) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form0010.html">EX025 - Formulários (10) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form0011.html">EX025 - Formulários (11) - </a>
+<hr>
