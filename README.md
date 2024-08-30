@@ -72,4 +72,4 @@ HTML5 and CSS Course
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo006.html">EX022 - Backgrounds / images /divs (6)</a>
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo007.html">EX022 - Backgrounds / images /divs (7)</a>
-<br>
+<hr>
