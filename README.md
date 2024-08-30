@@ -121,11 +121,11 @@ HTML5 and CSS Course
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq001">EX026 - Media Queries (1) - screen e print</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq002">EX026 - Media Queries (2) - screen e print</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq002">EX026 - Media Queries (2) - orientation:portrait / orientation:landscape</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq003">EX026 - Media Queries (3) - screen e print</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq003">EX026 - Media Queries (3) - Configurações em um mesmo arquivo CSS</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq004">EX026 - Media Queries (4) - screen e print</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq004">EX026 - Media Queries (4) - COnfigurando vários tamanhos de tela diferentes com CSS distintos (media screen / min-width and max-width)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq005">EX026 - Media Queries (5) - screen e print</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq005">EX026 - Media Queries (5) - Menu Burger (mostra/esconde) conforme tamanho da tela muda para outro menu</a>
 <br>
