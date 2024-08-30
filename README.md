@@ -75,13 +75,13 @@ HTML5 and CSS Course
 <hr>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela001.html">EX023 - Tabelas (1)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela002.html">EX023 - Tabelas (2)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela002.html">EX023 - Tabelas (2) - Efeito Zebrado / Gruda Cabeçalho</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela003.html">EX023 - Tabelas (3)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela003.html">EX023 - Tabelas (3) - Mesclagens</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela004.html">EX023 - Tabelas (4)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela004.html">EX023 - Tabelas (4) - Mesclagens</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela005.html">EX023 - Tabelas (5)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela005.html">EX023 - Tabelas (5) - Tag para cada coluna para facilitar o uso do CSS</a>
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela006.html">EX023 - Tabelas (6)</a>
 <hr>
