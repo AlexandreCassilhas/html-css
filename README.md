@@ -128,4 +128,28 @@ HTML5 and CSS Course
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq004">EX026 - Media Queries (4) - COnfigurando vários tamanhos de tela diferentes com CSS distintos (media screen / min-width and max-width)</a>
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq005">EX026 - Media Queries (5) - Menu Burger (mostra/esconde) conforme tamanho da tela muda para outro menu</a>
+<hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex001">EX027 - Flexible Box (1) - </a>
 <br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex002">EX027 - Flexible Box (2) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex003">EX027 - Flexible Box (3) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex004">EX027 - Flexible Box (4) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex005">EX027 - Flexible Box (5) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex006">EX027 - Flexible Box (6) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex007">EX027 - Flexible Box (7) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex008">EX027 - Flexible Box (8) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex009">EX027 - Flexible Box (9) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex010">EX027 - Flexible Box (10) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex011">EX027 - Flexible Box (11) - </a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex012">EX027 - Flexible Box (12) - </a>
+<hr>
