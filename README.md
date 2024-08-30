@@ -119,3 +119,13 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form011.html">EX025 - Formulários (11) - oninput / output / JS</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq001.html">EX026 - Media Queries (1) - screen e print</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq002.html">EX026 - Media Queries (2) - screen e print</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq003.html">EX026 - Media Queries (3) - screen e print</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq004.html">EX026 - Media Queries (4) - screen e print</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq005.html">EX026 - Media Queries (5) - screen e print</a>
+<br>
