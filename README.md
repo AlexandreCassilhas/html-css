@@ -85,3 +85,5 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela006.html">EX023 - Tabelas (6)</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/iframe001.html">EX024 - Iframes (1)</a>
+<br>
