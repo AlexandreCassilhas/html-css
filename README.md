@@ -73,3 +73,15 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex022/fundo007.html">EX022 - Backgrounds / images /divs (7)</a>
 <hr>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela001.html">EX023 - Tabelas (1)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela002.html">EX023 - Tabelas (2)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela003.html">EX023 - Tabelas (3)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela004.html">EX023 - Tabelas (4)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela005.html">EX023 - Tabelas (5)</a>
+<br>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela006.html">EX023 - Tabelas (6)</a>
+<hr>
