@@ -97,11 +97,9 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe006.html">EX024 - Iframes (6) - Dicas de Conteúdos dentro de Iframes</a>
 <hr>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - </a>
-<br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form001.html">EX025 - Formulários (1) - label for / autocomplete</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form002.html">EX025 - Formulários (2) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form002.html">EX025 - Formulários (2) - size / autocomplete (dentro do input)</a>
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex025/form003.html">EX025 - Formulários (3) - required / maxlength / placeholder / min / max / step / types: month/date/time</a>
 <br>
