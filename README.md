@@ -85,15 +85,15 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex023/tabela006.html">EX023 - Tabelas (6)</a>
 <hr>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe001.html">EX024 - Iframes (1)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe001.html">EX024 - Iframes (1) - Conteúdos Externos</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe002.html">EX024 - Iframes (2)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe002.html">EX024 - Iframes (2) - Conteúdos Internos</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe003.html">EX024 - Iframes (3)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe003.html">EX024 - Iframes (3) - Alterando o conteúdo de um Iframe por menu de opções</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe004.html">EX024 - Iframes (4)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe004.html">EX024 - Iframes (4) - Configurando permissões no Iframe (sandbox)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe005.html">EX024 - Iframes (5)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe005.html">EX024 - Iframes (5) - Configurando permissões no Iframe (sandbox)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe006.html">EX024 - Iframes (6)</a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex024/iframe006.html">EX024 - Iframes (6) - Dicas de Conteúdos dentro de Iframes</a>
 <hr>
