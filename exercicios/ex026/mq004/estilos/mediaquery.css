@@ -30,7 +30,7 @@ Typical Device Breakpoints:
     content: 'Essa impressão foi feita utilizando-se o padrão Typical Device Breakpoint';
   }
 
-    /* Mostrando apenas o tablet e escondendo os demais*/
+    /* Mostrando apenas a print e escondendo os demais*/
     img#phone { display: none;}
     img#tablet { display: none;}
     img#print { display: block;}
@@ -68,7 +68,7 @@ Typical Device Breakpoints:
   body {
     background-image: url(../imagens/back-tv.jpg);
   }
-    /* Mostrando apenas o PC e escondendo os demais*/
+    /* Mostrando apenas a TV e escondendo os demais*/
     img#phone { display: none;}
     img#tablet { display: none;}
     img#print { display: none;}
