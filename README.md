@@ -129,27 +129,27 @@ HTML5 and CSS Course
 <br>
 <a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex026/mq005">EX026 - Media Queries (5) - Menu Burger (mostra/esconde) conforme tamanho da tela muda para outro menu</a>
 <hr>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex001">EX027 - Flexible Box (1) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex001">EX027 - Flexible Box (1) - Display: flex / flex: auto</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex002">EX027 - Flexible Box (2) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex002">EX027 - Flexible Box (2) - flex-direction: row/column/row-reverse/column-reverse </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex003">EX027 - Flexible Box (3) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex003">EX027 - Flexible Box (3) - flex-wrap: wrap/nowrap</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex004">EX027 - Flexible Box (4) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex004">EX027 - Flexible Box (4) - flex-flow / justify-content / align-items</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex005">EX027 - Flexible Box (5) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex005">EX027 - Flexible Box (5) - Flexible Box Centralizado</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex006">EX027 - Flexible Box (6) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex006">EX027 - Flexible Box (6) - flex-flow / align-items / align-content</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex007">EX027 - Flexible Box (7) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex007">EX027 - Flexible Box (7) - Ordem dos elementos na flex-box / div#1 {order: -2}</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex008">EX027 - Flexible Box (8) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex008">EX027 - Flexible Box (8) - Alterando o alinhamento / div#3 { align-self: flex-end} </a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex009">EX027 - Flexible Box (9) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex009">EX027 - Flexible Box (9) - Tamanho do elemento definido no "flex-basis"</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex010">EX027 - Flexible Box (10) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex010">EX027 - Flexible Box (10) - flex-grow / flex-shrink / flex-basis</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex011">EX027 - Flexible Box (11) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex011">EX027 - Flexible Box (11) - flex-grow / flex-shrink / flex-basis (2)</a>
 <br>
-<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex012">EX027 - Flexible Box (12) - </a>
+<a href="https://alexandrecassilhas.github.io/html-css/exercicios/ex027/flex012">EX027 - Flexible Box (12) - flex: [flex-grow] [flex-shrink] [flex-basis]</a>
 <hr>
