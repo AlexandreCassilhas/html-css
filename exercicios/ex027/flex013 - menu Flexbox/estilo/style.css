@@ -15,38 +15,45 @@ body {
 }
 
 header {
-  padding: 10px 0px;
+  padding: 10px;
   background-color: grey;
   color: wheat;
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
 }
 
 header > h1 {
   border: 1px dotted black;
-  flex: 0 1 300px;
-  align-self: flex-start;
+  flex: 0 1 200px;
+}
 
+header > span#burger {
+  display: none;
 }
 
 header > nav {
-  padding: 10px;
+  padding-left: 0px;
   border: 1px dotted black;
-  flex: 0 1 800px;
-  align-self: flex-end;
+  flex: 1 1 auto;
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
 }
 
 header > nav > a {
   padding: 10px;
+  margin-right: 2px;
   background-color: darkgray;
   color: white;
   text-decoration: none;
-  border-radius: 0px 10px 0px 10px;
+  border-radius: 0px 15px 0px 0px;
 }
 
 header > nav > a:hover {
   background-color: bisque;
   color: black;
+  box-shadow: 2px 2px 2px black;
 }
 
 main {
