@@ -24,6 +24,10 @@
   header {
     display: block;
   }
+
+  header > h1 {
+    text-align: center;
+  }
   
   header > nav {
     display: none;
