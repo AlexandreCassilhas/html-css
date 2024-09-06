@@ -3,23 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Menu Flexbox</title>
+  <title>50+ Na Bagagem</title>
   <link rel="stylesheet" href="estilo/style.css">
   <link rel="stylesheet" href="estilo/mediaquery.css">
   <!-- Carregando um Icone da Biblioteca de Icones "Google Icons" -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
-<body>
-  <header>
-    <h1>Meu Site</h1>
+<body onresize="mudouTamanho()">
+  <header id="iheader">
+    <h1>50+ Na Bagagem</h1>
     <!-- Utilizando a Biblioteca do Google Icons -->
     <span id="burger" class="material-symbols-outlined" onclick="clickMenu()">menu</span>
-    <nav>
-      <a href="#">Economia</a>
-      <a href="#">Tecnologia</a>
-      <a href="#">Esportes</a>
-      <a href="#">Cultura</a>
-      <a href="#">Viagens</a>
+    <nav id="inav">
+      <div><a class="js-item" href="#">Economia</a></div>
+      <div><a class="js-item" href="#">Tecnologia</a></div>
+      <div><a class="js-item" href="#">Esportes</a></div>
+      <div><a class="js-item" href="#">Cultura</a></div>
+      <div><a class="js-item" href="#">Viagens</a></div>
     </nav>
   </header>
   <main>
@@ -28,5 +28,27 @@
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis repellat corporis adipisci pariatur in quam nulla culpa voluptatem atque? Accusamus, obcaecati tempora dignissimos nam hic repudiandae ducimus magni consequuntur accusantium.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam reprehenderit temporibus quaerat autem est deserunt porro aut quia aspernatur cumque neque ab, nemo cupiditate illum eligendi praesentium minima corrupti Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam reiciendis ducimus nemo eius dolorum mollitia ex eaque odio ipsum expedita, quaerat suscipit modi doloribus voluptate fugit? Aut numquam odit ut!</p>
   </main>
+
+  <script>
+    function clickMenu() {
+      iheader.style.display = 'block';
+      if (inav.style.display == 'none') {
+        inav.style.display = 'block';
+      } else {
+        inav.style.display = 'none';
+      }
+    }
+
+    function mudouTamanho() {
+      if (window.innerWidth > 500) {
+        iheader.style.display = 'flex';
+        inav.style.display = 'flex';
+      } else {
+        iheader.style.display = 'block';
+        inav.style.display = 'none';
+      }
+    }
+      
+  </script>
 </body>
 </html>

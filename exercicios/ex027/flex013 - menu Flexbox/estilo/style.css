@@ -16,15 +16,16 @@ body {
 
 header {
   padding: 10px;
-  background-color: grey;
-  color: wheat;
+  background-color: #011126;
+  color: #8DC3F2;
   display: flex;
   flex-flow: row wrap;
 }
 
 header > h1 {
+  font-family:'Courier New', Courier, monospace;
   border: 1px dotted black;
-  flex: 0 1 200px;
+  flex: 0 1 300px;
 }
 
 header > span#burger {
@@ -41,19 +42,24 @@ header > nav {
   justify-content: flex-end;
 }
 
-header > nav > a {
+header > nav > div {
+  padding: 10px 2px 10px 0px;
+}
+
+header > nav > div > a {
   padding: 10px;
   margin-right: 2px;
-  background-color: darkgray;
+  background-color: #6BA5F2;
   color: white;
   text-decoration: none;
   border-radius: 0px 15px 0px 0px;
 }
 
-header > nav > a:hover {
-  background-color: bisque;
-  color: black;
+header > nav > div > a:hover {
+  background-color: #BBBF4B;
+  color: #011126;
   box-shadow: 2px 2px 2px black;
+  cursor: pointer;
 }
 
 main {

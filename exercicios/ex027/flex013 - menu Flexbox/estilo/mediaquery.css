@@ -18,6 +18,7 @@
 
 }
 
+
 @media screen and (max-width: 500px) {
 
   header {
@@ -30,10 +31,39 @@
 
   header > span#burger {
     display: block;
-    background-color: rgb(32, 32, 32);
+    background-color: #6BA5F2;
     color: white;
     text-align: center;
     padding: 10px;
   }
+
+  span#burger:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 2px 2px 2px black;
+    cursor: pointer;
+  }
+
+  nav#inav > div {
+    padding: 5px 2px;
+  }
+
+  nav > div > a {
+    color: white;
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bolder;
+    display: block;
+    text-decoration: none;
+    background-color: rgb(87, 87, 87);
+  }
+
+  nav#inav > div > a:hover {
+    background-color: #BBBF4B;
+    color: black;
+    box-shadow: 2px 2px 2px black;
+  }
+
 }
+
 
