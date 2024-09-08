@@ -20,6 +20,7 @@ body {
 }
 
 div.js-logo {
+  padding: 10px;
   background-color: white;
   text-align: center;
 }
@@ -34,8 +35,8 @@ header {
 
 header > h1 {
   font-family: "Roboto Condensed", sans-serif;
-  font-size: 2em;
-  font-weight: 600;
+  font-size: 1.6em;
+  font-weight: 500;
   color: white;
   flex: 0 1 300px;
 }
@@ -74,6 +75,7 @@ header > nav > div > a:hover {
 }
 
 main {
+  width: 98vw;
   background-color: white;
   margin: 10px;
   padding: 10px;
@@ -85,6 +87,6 @@ main {
   text-align: justify;
 }
 
-div.js-img_casal {
+div.js-img_initial {
   text-align: center;
 }
