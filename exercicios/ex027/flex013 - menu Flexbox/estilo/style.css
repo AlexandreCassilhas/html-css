@@ -20,9 +20,10 @@ body {
 }
 
 div.js-logo {
+  max-width: 1000px;
   width: 98vw;
-  margin: 10px;
-  padding: 10px;
+  margin: auto;
+  padding: 4px 10px 4px 10px;
   background-color: white;
   text-align: center;
   border-radius: 10px;
@@ -30,6 +31,9 @@ div.js-logo {
 }
 
 header {
+  max-width: 1000px;
+  width: 98 vw;
+  margin: auto;
   padding: 10px;
   background-color: #011126;
   color: #8DC3F2;
@@ -79,9 +83,10 @@ header > nav > div > a:hover {
 }
 
 main {
+  max-width: 1000px;
   width: 98vw;
+  margin: auto;
   background-color: white;
-  margin: 10px;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 2px 2px 3px black;
@@ -93,4 +98,11 @@ main {
 
 div.js-img_initial {
   text-align: center;
+}
+
+main > h2#ititulo {
+  background-image: linear-gradient(to right, #011126 60%, lightblue);
+  color: #BBBF4B;
+  font-weight: bolder;
+  font-size: x-large;
 }

@@ -34,6 +34,7 @@
   }
 
   header > span#burger {
+    width: 100%;
     display: block;
     background-color: #6BA5F2;
     color: white;
