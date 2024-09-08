@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>50+ Na Bagagem</title>
+  <link rel="shortcut icon" href="imagens/IconeCanal.ico" type="image/x-icon">
   <link rel="stylesheet" href="estilo/style.css">
   <link rel="stylesheet" href="estilo/mediaquery.css">
   <!-- Carregando um Icone da Biblioteca de Icones "Google Icons" -->
@@ -14,11 +15,11 @@
     <img src="imagens/LogoCanal.png" alt="logoCanal">
   </div>
   <header id="iheader">
-    <h1>50+ Na Bagagem</h1>
+    <h1>50+ Na Bagagem  <sup><small>&copy;</small></sup></h1>
     <!-- Utilizando a Biblioteca do Google Icons -->
     <span id="burger" class="material-symbols-outlined" onclick="clickMenu()">menu</span>
     <nav id="inav">
-      <div><a class="js-item" href="#">Quem Somos</a></div>
+      <div><a class="js-item" href="#" onclick="quemSomos()">Quem Somos</a></div>
       <div><a class="js-item" href="#">Tecnologia</a></div>
       <div><a class="js-item" href="#">Esportes</a></div>
       <div><a class="js-item" href="#">Cultura</a></div>
@@ -28,13 +29,15 @@
   <main>
     <div class="js-img_casal"><img src="imagens/fotoCasalv3.png" alt="Casal 50+"></div>
     <h2>Bem-vindos ao “50+ Na Bagagem”</h2>
-    <p>Somos um casal apaixonado por aventuras e descobertas, especialmente aquelas que nos permitem explorar o mundo no nosso próprio ritmo. Se você está na faixa dos 50 anos ou mais e busca inspiração para viagens de motorhome ou outros modais, este é o lugar certo para você!</p>
-    <br>
-    <p>Aqui, compartilhamos nossas experiências, dicas e roteiros detalhados para que você possa planejar a sua próxima jornada com tranquilidade e segurança. Desde as paisagens deslumbrantes do Brasil até os destinos mais exóticos ao redor do mundo, nosso objetivo é mostrar que a idade é apenas um número quando se trata de viver novas aventuras.</p>
-    <br>
-    <p>Junte-se a nós nessa viagem e descubra como é possível transformar cada quilômetro percorrido em memórias inesquecíveis. Vamos juntos explorar novos horizontes e aproveitar a liberdade que só a experiência pode proporcionar.</p>
-    <br>
-    <p>Prepare-se para embarcar em uma jornada repleta de paisagens incríveis, histórias emocionantes e muitas dicas práticas. Seja bem-vindo ao “50+ Na Bagagem” – onde cada viagem é uma nova oportunidade de viver intensamente!</p>
+    <div id="itexto">
+      <p>Somos um casal apaixonado por aventuras e descobertas, especialmente aquelas que nos permitem explorar o mundo no nosso próprio ritmo. Se você está na faixa dos 50 anos ou mais e busca inspiração para viagens de motorhome ou outros modais, este é o lugar certo para você!</p>
+      <br>
+      <p>Aqui, compartilhamos nossas experiências, dicas e roteiros detalhados para que você possa planejar a sua próxima jornada com tranquilidade e segurança. Desde as paisagens deslumbrantes do Brasil até os destinos mais exóticos ao redor do mundo, nosso objetivo é mostrar que a idade é apenas um número quando se trata de viver novas aventuras.</p>
+      <br>
+      <p>Junte-se a nós nessa viagem e descubra como é possível transformar cada quilômetro percorrido em memórias inesquecíveis. Vamos juntos explorar novos horizontes e aproveitar a liberdade que só a experiência pode proporcionar.</p>
+      <br>
+      <p>Prepare-se para embarcar em uma jornada repleta de paisagens incríveis, histórias emocionantes e muitas dicas práticas. Seja bem-vindo ao “50+ Na Bagagem” – onde cada viagem é uma nova oportunidade de viver intensamente!</p>
+    </div>
   </main>
 
   <script>
@@ -55,6 +58,12 @@
         iheader.style.display = 'block';
         inav.style.display = 'none';
       }
+    }
+
+    function quemSomos() {
+      const novoConteudo = 'Tudo bem? Isso é um teste. Tudo bem? Isso é um teste. Tudo bem? Isso é um teste. Tudo bem? Isso é um teste. Tudo bem? Isso é um teste.';
+      const textoConteudo = document.getElementById('itexto');
+      textoConteudo.innerHTML = novoConteudo;
     }
       
   </script>
