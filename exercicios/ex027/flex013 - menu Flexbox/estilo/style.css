@@ -103,6 +103,6 @@ div.js-img_initial {
 main > h2#ititulo {
   background-image: linear-gradient(to right, #011126 60%, lightblue);
   color: #BBBF4B;
-  font-weight: bolder;
+  font-weight: lighter;
   font-size: x-large;
 }
