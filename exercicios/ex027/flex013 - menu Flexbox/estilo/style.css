@@ -4,8 +4,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Handjet:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Playwrite+CU:wght@100..400&display=swap');
+/* Importando uma fonte baixada para a pasta 'fonts' do projeto */
+@font-face {
+  font-family: 'Indie Flower';
+  src: url(../fonts/IndieFlower-Regular.ttf) format('truetype');
 
+  /* Tipos de Format:display: 
+      - opentype (otf);
+      - truetype (ttf);
+      - embedeed-opentype;
+      - truetype-aat (Apple Advanced Typography);
+      - svg.
+  */
+}
 
 * {
   margin: 0px;
