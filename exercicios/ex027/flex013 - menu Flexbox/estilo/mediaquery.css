@@ -16,6 +16,11 @@
     justify-content: flex-start;
   }
 
+  img#iImgInitial {
+    width: 99vw;
+    height: 40vh;
+  }
+
 }
 
 
@@ -70,6 +75,10 @@
     box-shadow: 2px 2px 2px black;
   }
 
+  img#iImgInitial {
+    width: 99vw;
+    height: 30vh;
+  }
 }
 
 
