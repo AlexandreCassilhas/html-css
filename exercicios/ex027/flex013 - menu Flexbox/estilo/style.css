@@ -114,6 +114,18 @@ div.js-img_initial {
   text-align: center;
 }
 
+img#iImgInitial {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  text-align: center;
+}
+
+img#iImgCasal {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  text-align: center;
+}
+
 main > h2#ititulo {
   background-image: linear-gradient(to right, #011126 60%, lightblue);
   color: #BBBF4B;
