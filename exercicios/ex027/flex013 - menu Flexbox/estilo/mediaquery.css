@@ -32,6 +32,15 @@
 
 @media screen and (max-width: 500px) {
 
+  img#logoCanal {
+    width: 180px;
+    height: 180px;
+  }
+
+  div.js-logo {
+    height: 170px;
+  }
+
   header {
     display: block;
   }
