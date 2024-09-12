@@ -11,7 +11,13 @@
 
 @media screen and (max-width: 768px) {
   
+  img#logoCanal {
+    width: 200px;
+    height: 200px;
+  }
   
+
+
   header > nav {
     justify-content: flex-start;
   }
