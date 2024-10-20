@@ -54,19 +54,24 @@ header {
   max-width: 1000px;
   width: 98 vw;
   margin: auto;
-  padding: 5px 10px 10px 5px;
+  padding: 5px 0px 10px 5px; 
   background-color: #011126;
   color: #8DC3F2;
   display: flex;
   flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header > h1 {
+ /* border: 1px dotted white; */
+  padding: 5px 0px 0px 15px;
   font-family:"Indie Flower", cursive;
   font-size: 2.5em;
   font-weight: 600;
   color: white;
-  flex: 0 1 300px;
+  text-shadow: 1.5px 1px 0px darkcyan;
+  flex: 0 0 200px;
 }
 
 header > span#burger {
@@ -74,7 +79,7 @@ header > span#burger {
 }
 
 header > nav {
-  padding-left: 0px;
+  /* border: 1px dotted white; */
   flex: 1 1 auto;
 
   display: flex;
@@ -83,7 +88,7 @@ header > nav {
 }
 
 header > nav > div {
-  padding: 15px 2px 5px 0px;
+  padding: 5px 2px 5px 0px;
 }
 
 header > nav > div > a {
@@ -100,6 +105,7 @@ header > nav > div > a:hover {
   color: #011126;
   box-shadow: 2px 2px 2px black;
   cursor: pointer;
+  transition: background-color .5s;
 }
 
 main {
